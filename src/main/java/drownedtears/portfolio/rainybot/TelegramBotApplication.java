@@ -6,11 +6,11 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 @SpringBootApplication
 @EnableJpaRepositories
-public class VkTelegramBotApplication {
+public class TelegramBotApplication {
 
 	public static void main(String[] args) {
 
-		SpringApplication.run(VkTelegramBotApplication.class, args);
+		SpringApplication.run(TelegramBotApplication.class, args);
 	}
 
 }
