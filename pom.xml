@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>drownedtears.portfolio</groupId>
-	<artifactId>vk-telegrambot</artifactId>
+	<artifactId>rainybot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>vk-telegrambot</name>
-	<description>vk-telegrambot</description>
+	<name>rainybot</name>
+	<description>telegrambot</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
